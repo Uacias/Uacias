@@ -1,7 +1,7 @@
 # Hi there, I'm Uacias 👋
 
 <img alt="all stats" src="https://github-readme-stats.vercel.app/api?username=Uacias&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uacias"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uacias&layout=compact"/>
 <!--
 **Uacias/Uacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
