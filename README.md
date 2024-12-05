@@ -1,8 +1,4 @@
 # Hi there, I'm Uacias 👋
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img alt="all stats" src="https://github-readme-stats.vercel.app/api?username=Uacias&show_icons=true&theme=radical"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uacias&layout=compact&theme=radical"/>
-</div>
 <!--
 **Uacias/Uacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
